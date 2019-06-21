@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:text="Sign Up For User"
-        android:gravity="center"
+        android:gravity="left"
         android:padding="12px"
         android:textStyle="bold"
         android:textColor="@color/colorAccent"
